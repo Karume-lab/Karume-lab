@@ -1,4 +1,4 @@
-![Views](https://github-views.deno.dev/api/badge/Karume-lab?style=classic)
+![Views](https://github-views.deno.dev/api/badge/Karume-lab?style=classic?color=black)
 
 <h1 align="center">Hello, I'm Daniel Karume</h1>
 <h3 align="center">An aspiring fullstack developer from Kenya, on a journey of continuous learning</h3>
