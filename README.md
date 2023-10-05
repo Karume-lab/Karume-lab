@@ -1,3 +1,5 @@
+![Views](https://github-views.deno.dev/api/badge/Karume-lab?style=classic)
+
 <h1 align="center">Hello, I'm Daniel Karume</h1>
 <h3 align="center">An aspiring fullstack developer from Kenya, on a journey of continuous learning</h3>
 
@@ -5,13 +7,13 @@
 
 - 🌱 I’m currently learning **Computer Science at JKUAT, Python, Django, JavaScript, HTML and CSS**
 
-- 👯 I’m looking to collaborate on **a task managing web application for developers - CodeCraft**
+- 👯 I’m looking to collaborate on **anything and everythin**
 
 - 💬 Ask me about **Python :)**
 
 - 📫 How to reach me **danielkarume@outlook.com**
 
-- ⚡ Fun fact **Rome was not built in a day.**
+- ⚡ Fun fact **You thought this was going to be a fun fact, but it is I, <em>kono DIO da!</em> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
