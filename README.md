@@ -1,6 +1,6 @@
 ![Github Views](https://github-views.deno.dev/api/badge/Karume-lab?label=Stalkers)
 
-<h1 align="center">KKonnichiwa 👋🏾</h1>
+<h1 align="center">Konnichiwa 👋🏾</h1>
 <h3 align="center">An aspiring developer, on a journey of continuous learning</h3>
 
 <p align="left"> <a href="https://twitter.com/karume_lab" target="blank"><img src="https://img.shields.io/twitter/follow/karume_lab?logo=twitter&style=for-the-badge" alt="karume_lab" /></a> </p>
