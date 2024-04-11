@@ -1,4 +1,4 @@
-![Github Views](https://github-views.deno.dev/api/badge/Karume-lab?label=Stalkers)
+![Github Views](https://github-views.deno.dev/api/badge/Karume-lab?label=Visitors)
 
 <h1 align="center">Konnichiwa 👋🏾</h1>
 <h3 align="center">An aspiring developer, on a journey of continuous learning</h3>
