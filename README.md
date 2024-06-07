@@ -7,6 +7,12 @@
 
 🌱 I’m currently learning **Computer Science at JKUAT, Python, Django, JavaScript, HTML and CSS**
 
+<div style="display:flex; align-items:center;">
+  <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="I use Arch BTW" width="20"/>
+  I use Arch BTW
+</div>
+<br>
+
 👯 I’m looking to collaborate on **anything and everythin**
 
 💬 Ask me about **Python :)**
