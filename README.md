@@ -3,15 +3,13 @@
 <h1 align="center">Konnichiwa 👋🏾</h1>
 <h3 align="center">An aspiring developer, on a journey of continuous learning</h3>
 
-<p align="left"> <a href="https://twitter.com/karume_lab" target="blank"><img src="https://img.shields.io/twitter/follow/karume_lab?logo=twitter&style=for-the-badge" alt="karume_lab" /></a> </p>
-
-🌱 I’m currently learning **Computer Science at JKUAT, Python, Django, JavaScript, HTML and CSS**
-
 <div style="display:flex; align-items:center;">
   <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="I use Arch BTW" width="20"/>
   I use Arch BTW
 </div>
 <br>
+
+🌱 I’m currently learning **Computer Science at JKUAT, Python, Django, JavaScript, HTML and CSS**
 
 👯 I’m looking to collaborate on **anything and everythin**
 
