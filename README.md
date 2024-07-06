@@ -1,4 +1,7 @@
-![Github Views](https://github-views.deno.dev/api/badge/Karume-lab?label=Visitors)
+<a href="https://github.com/dancoon/dancoon">
+  <img src="https://komarev.com/ghpvc/?username=Karume-lab&color=red" alt="Profile views" />
+</a>
+
 
 <h1 align="center">Konnichiwa 👋🏾</h1>
 <h3 align="center">An aspiring developer, on a journey of continuous learning</h3>
