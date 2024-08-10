@@ -40,7 +40,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karume-lab&show_icons=true&theme=dark&locale=en" alt="karume-lab"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karume-lab&theme=dark" alt="karume-lab"/>
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karume-lab&theme=dark" alt="karume-lab"/> -->
 </p>
 
 <picture>
