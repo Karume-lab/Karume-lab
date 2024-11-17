@@ -50,10 +50,10 @@
     <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=karume-lab&show_icons=true&theme=dark&locale=en"
             alt="karume-lab" style="width: 100%; max-width: 400px;" />
-        <a href="https://wakatime.com">
+<!--         <a href="https://wakatime.com">
             <img src="https://wakatime.com/share/@5c126f93-7255-4b25-ac7a-2dfc2c96815f/58ab8166-1fa1-41bb-a26c-d617aa983e1b.png"
                 alt="Wakatime Stats" style="width: 100%; max-width: 400px;" />
-        </a>
+        </a> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=karume-lab&theme=dark" alt="karume-lab"
             style="width: 100%; max-width: 400px;" />
         <picture>
