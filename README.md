@@ -13,7 +13,7 @@
 
 <br>
 
-🌱 I’m currently learning **Computer Science at JKUAT, Python, Django, JavaScript, HTML, and CSS**
+🌱 I’m currently learning **Computer Science at JKUAT, React Native (Expo), DRF and GraphQL(Django)**
 
 👯 I’m looking to collaborate on **anything and everything**
 
