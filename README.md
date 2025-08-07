@@ -1,4 +1,4 @@
-<a href="https://github.com/dancoon/dancoon">
+<a href="https://github.com/Karume-lab/karume-lab">
     <img src="https://komarev.com/ghpvc/?username=Karume-lab&color=red" alt="Profile views" />
 </a>
 
@@ -8,7 +8,7 @@
 <div style="display: flex; align-items: center; gap: 6px;">
     <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"
         alt="I use Arch BTW" width="20" />
-    <s>I use Arch BTW</s>
+    <strong>I use Arch ... <i>BTW</i></strong>
 </div>
 
 <br>
