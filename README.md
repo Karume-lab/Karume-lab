@@ -7,8 +7,8 @@
 
 <div style="display: flex; align-items: center; gap: 6px;">
     <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"
-        alt="I use Arch BTW" width="20" />
-    <strong>I use Arch ... <i>BTW</i></strong>
+        alt="i use arch btw" width="20" />
+    <strong>i use arch...<i>btw</i></strong>
 </div>
 
 <br>
