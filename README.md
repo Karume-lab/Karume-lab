@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">Konnichiwa 👋🏾</h1>
-<h3 align="center">An aspiring developer, on a journey of continuous learning</h3>
+<h3 align="center">I am an army swiss knife in the programming world.</h3>
 
 <div style="display: flex; align-items: center; gap: 6px;">
     <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"
