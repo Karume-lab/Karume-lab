@@ -1,6 +1,3 @@
-
-
-
 # Hey there! I'm Daniel Karume 👋🏾
 
 <div align="center">
@@ -126,13 +123,16 @@ const daniel: Developer = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karume-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karume-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; width: 820px; margin: 0 auto;">
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=karume-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karume-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karume-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <div style="width: 100%;">
+    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Karume-lab&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </div>
+
 </div>
 
 ---
