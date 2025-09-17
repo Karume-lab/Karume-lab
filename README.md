@@ -15,7 +15,7 @@
   <h3>🚀 Full-Stack Developer | 📱 Mobile Developer | 🎓 CS Student @ JKUAT</h3>
   
   <p>
-    <em>A versatile developer who's like a 
+    <em>I am a
     <a href="https://en.wikipedia.org/wiki/Swiss_Army_knife#Cultural_impact">Swiss army knife</a> 
     in the programming world</em> 
     <img src="https://cdn-icons-png.flaticon.com/512/5064/5064061.png" alt="🔧" width="20"/>
