@@ -129,9 +129,7 @@ const daniel: Developer = {
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karume-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
 
-  <div style="width: 100%;">
-    <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=Karume-lab&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karume-lab&theme=tokyonight"/>
 
 </div>
 
