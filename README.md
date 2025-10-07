@@ -29,7 +29,7 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const daniel: Developer = {
+const karume: Adaptable<Developer> = {
   location: "Nairobi, Kenya 🇰🇪",
   education: "B.Sc Computer Science @ JKUAT (Expected 2026)",
   interests: [
