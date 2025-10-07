@@ -1,4 +1,6 @@
-# Hey there! I'm Daniel Karume 👋🏾
+<div align="center">
+  <h1>Konnichiwa 👋🏾</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/Karume-lab/karume-lab">
@@ -12,7 +14,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | 📱 Mobile Developer | 🎓 CS Student @ JKUAT</h3>
+  <h3>🚀 Software Developer | 📱 Mobile Developer | 🎓 Computer Science</h3>
   
   <p>
     <em>I am a
@@ -30,19 +32,16 @@
 const daniel: Developer = {
   location: "Nairobi, Kenya 🇰🇪",
   education: "B.Sc Computer Science @ JKUAT (Expected 2026)",
-  interests: ["Full-Stack Development", "Mobile Apps", "Open Source"],
-  currentlyLearning: [
-    "React Native (Expo)",
-    "Django with GraphQL",
-    "Advanced System Design",
+  interests: [
+    "Frontend Development",
+    "Backend Development",
+    "DevOps",
+    "Mobile Apps",
+    "Open Source",
   ],
+  currentlyLearning: ["React Native (Expo)", "Nest.js"],
   collaborateOn: "Innovative web and mobile projects! 🚀",
-  askMeAbout: [
-    "React/Next.js",
-    "Python/Django",
-    "Mobile Development",
-    "GraphQL",
-  ],
+  askMeAbout: ["React/Next.js", "Python/Django", "React Native"],
 };
 ```
 
@@ -52,17 +51,14 @@ const daniel: Developer = {
 
 <div align="center">
 
-### 🌐 Web Development
+### 🖥️ Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### 🎨 UI Libraries & Styling
-
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Mantine UI](https://img.shields.io/badge/Mantine_UI-339AF0?style=for-the-badge&logo=react&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=react&logoColor=white)
@@ -79,6 +75,12 @@ const daniel: Developer = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗄️ APIs & Data
 
@@ -87,6 +89,7 @@ const daniel: Developer = {
 
 ### 🛠️ Tools & Platforms
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -98,6 +101,7 @@ const daniel: Developer = {
 ### 📋 Package Managers
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### 🧹 Code Quality
