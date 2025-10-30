@@ -132,6 +132,13 @@ const karume: Adaptable<Developer> = {
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=karume-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karume-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
+  
+  <!-- GitHub Streak Stats -->
+  <div style="display: flex; justify-content: center;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Karume-lab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=DD2727&currStreakNum=DD2727" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
 
 ---
